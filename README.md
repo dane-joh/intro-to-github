@@ -9,6 +9,8 @@
 
 _Get started using GitHub in less than an hour. Dane style!!!_
 
+_OK, for real. Let's get rollin'!!!!!!!!_
+
 <!-- 
   <<< Author notes: Start of the course >>> 
   Include start button, a note about Actions minutes,
